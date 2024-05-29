@@ -1,7 +1,7 @@
 
-# <img width="30" alt="image" src="docs/images/avatar.jpg"> NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models
+# <img width="60" alt="image" src="docs/images/avatar.jpg"> NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models
 
-[\[Paper\]](xxx)  [\[Project Page\]](https://ixxx.com/)
+[\[Paper\]](xxx)  [\[Project Page\]](https://kaiwu5.github.io/noiseboost/)
 
 #### The code and data will be released after the paper is accepted.
 
