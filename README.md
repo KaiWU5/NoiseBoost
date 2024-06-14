@@ -50,5 +50,10 @@ Framework of NoiseBoost. We add noise perturbation to visual tokens to mitigate 
 If you find this project useful in your research, please consider cite:
 
 ```BibTeX
-Updating
+@article{wu2024noiseboost,
+  title={NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models},
+  author={Wu, Kai and Jiang, Boyuan and Jiang, Zhengkai and He, Qingdong and Luo, Donghao and Wang, Shengzhi and Liu, Qingwen and Wang, Chengjie},
+  journal={arXiv preprint arXiv:2405.20081},
+  year={2024}
+}
 ```
